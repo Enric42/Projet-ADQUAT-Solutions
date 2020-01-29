@@ -1,0 +1,217 @@
+/* Header Ombres */
+.site-header.style17.header--follow.sticky-resize.headerstyle--image_color.site-header--absolute.nav-th--light.siteheader-classic.siteheader-classic-normal.sheader-sh--light {
+  text-shadow: black 0.1em 0.1em 0.1em;
+}
+      
+    #mega-menu-wrap-main_navigation {
+      text-shadow: black 0.1em 0.1em 0.7em;
+    }
+
+/* Articles logo & img */
+
+/* logo */
+.latest_posts--4.kl-style-2 .latest_posts-elm-titlew {
+  background-color: #a95492!important;
+  border-radius: 50% 20% / 10% 40%!important;
+}
+
+/* img */
+.latest_posts-link::after {
+  display: none!important;
+}
+.latest_posts-title::after {
+  background-color: #a95492!important;
+}
+.latest_posts--4.kl-style-2 .latest_posts-img {
+  -webkit-transform: scale(1)!important;
+transform: scale(1)!important;
+  filter: grayscale(100%)!important;
+  -webkit-transition: all 3s ease;
+  -moz-transition: all 3s ease;
+  -o-transition: all 3s ease;
+  -ms-transition: all 3s ease;
+  transition: all 3s ease;
+  border-radius: 2%;
+}
+.latest_posts--4.kl-style-2 .latest_posts-img:hover {
+  -webkit-transform: scale(1.3)!important;
+transform: scale(1.3)!important;
+  filter: grayscale(0%)!important;
+  border-radius: 2%;
+}
+.latest_posts--4.kl-style-2 .latest_posts-link {
+  overflow:hidden;
+}
+
+/* Articles title */
+.latest_posts--4.kl-style-2 .latest_posts-title-link {
+  font-style: normal;
+  margin-bottom: 5px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  font-family: roboto;
+}
+.latest_posts--4.kl-style-2 .latest_posts-title-link:hover {
+  color: #984de2;
+}
+/* Auteur & date Articles */
+.latest_posts--4.kl-style-2 .latest_posts-details-data {
+display: none;
+}
+
+/* Couleurs & Positions hover icones sociales*/
+.site-header .topnav .topnav-item:hover, .site-header .topnav.social-icons .topnav-item:hover, .site-header.topnav .menu-item>a:hover, .site-header .kl-header-toptext a:hover {
+    color: #984de2 !important;
+    text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+/* Icone Comptabilité Arrondie */
+.kl-iconbox__icon {
+  border-radius: 4px;
+}
+
+
+/* Icones Odoo alignement*/
+#eluid8c0dc03e {
+width: 33.33333333%!important;
+}
+#eluid857c439e {
+width: 33.33333333%!important;
+}
+#eluid5c78ccdb {
+width: 33.33333333%!important;
+}
+
+
+#eluidc048e9f2 {
+width: 25%!important;
+}
+#eluid7b5d2841 {
+width: 25%!important;
+}
+#eluid16cdeefc {
+width: 25%!important;
+}
+#eluid53782155 {
+width: 25%!important;
+}
+#eluid6c8370cf {
+width: 25%!important;
+}
+#eluid9b1f867f {
+width: 25%!important;
+}
+#eluidae399c3b {
+width: 25%!important;
+}
+#eluideba8953c {
+width: 25%!important;
+}
+#eluid2e145958 {
+width: 25%!important;
+}
+#eluid8e3d07a0 {
+width: 25%!important;
+}
+#eluid45086c02 {
+width: 25%!important;
+}
+#eluidab68a9b6 {
+width: 25%!important;
+}
+#eluid208457a7 {
+width: 25%!important;
+}
+#eluida803476a {
+width: 25%!important;
+}
+
+
+#eluidd1a1de3e {
+width: 41.66666667%!important;
+}
+#eluidfed2aa0f {
+width: 41.66666667%!important;
+}
+#eluidce189650 {
+width: 41.66666667%!important;
+}
+#eluid2783050b {
+width: 41.66666667%!important;
+}
+#eluid69b0b43b {
+width: 41.66666667%!important;
+}
+#eluid59967364 {
+width: 41.66666667%!important;
+}
+#eluid07701f1d {
+width: 41.66666667%!important;
+}
+#eluide226e31a {
+width: 41.66666667%!important;
+}
+
+/* Titre ODOO alignement */
+#eluidd56d4668 {
+width: 25%!important;
+}
+#eluidf30d3f1d {
+width: 25%!important;
+}
+#eluid43f6a87e {
+width: 25%!important;
+}
+#eluid9af2c6cc {
+width: 25%!important;
+}
+#eluidfbe98d90 {
+width: 33.33333333%!important;
+}
+#eluid31e40259 {
+width: 33.33333333%!important;
+}
+#eluid4e21d063 {
+width: 33.33333333%!important;
+}
+
+/* Gestions Responsive Sections */
+@media screen and (max-width: 1278px) {
+  .kl-iconbox__content-wrapper {
+      display:none!important;
+  }
+  }
+  @media screen and (max-width: 768px) {
+  .eluidd189969f {
+      display:none!important;
+  }
+  }
+  @media screen and (max-width: 768px) {
+  .eluidc8182de5 {
+      display:none!important;
+  }
+  }
+  @media screen and (max-width: 768px) {
+  .eluid55193cbd {
+      display:none!important;
+  }
+  }
+  @media screen and (max-width: 768px) {
+  .eluid89c2a7b5 {
+      display:none!important;
+  }
+  }
+  /* Title responsive */
+  @media screen and (max-width: 1200px) {
+      .textpop__texts > span {
+          left:0%!important;
+      }
+      }
+      
+       @media screen and (max-width: 1920px) {
+      .textpop__texts > span {
+          left:26%;
+      }
+      }

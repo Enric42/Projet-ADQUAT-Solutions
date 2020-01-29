@@ -1,0 +1,173 @@
+/* Section découpe */
+.eluidc503d2a0 {
+    background-color:#008000;
+    width: 200%;
+    height: 180%;
+    transform: skewX(-87deg);
+    top: -90%;
+    position: fixed;
+    z-index: 2;
+    
+}
+
+/* Mega Menu principale */
+a.mega-menu-link {
+  border-radius: 4px !important;
+  transform: skewX(0deg)!important;
+}
+
+a.mega-menu-link:hover {
+  border-radius: 4px !important;
+  transform: skewX(0deg)!important;
+}
+
+.mega-sub-menu {
+  border-radius: 4px !important;
+  transform: skewX(0deg)!important;
+}
+
+#mega-menu-wrap-main_navigation {
+  margin-left: -37%;
+  margin-top: -2%;
+  transform: skewX(-14deg) skewY(-3deg);
+}
+#mega-menu-wrap-main_navigation #mega-menu-main_navigation > li.mega-menu-item > a.mega-menu-link {
+  border-top: 0px;
+}
+
+/* Header Couleurs & Formes */
+.site-header.style17 {
+    background:transparent !important;
+    border-bottom-color: transparent !important;
+    position: fixed;
+  }
+  
+  .site-header-separator {
+    background:transparent !important;
+  }
+  
+  /* Logo du site */
+  .site-logo-img {
+      position: fixed;
+      margin-top: -4%;
+      margin-left: -49%;
+      width: 18%;
+      height: 10%;
+      }
+
+  /* Couleurs module search */
+  ::placeholder {
+    color: white;
+  }
+  
+  .inputbox.gensearch__input {
+    color:#008000 !important;
+    font-weight: bold
+  }
+  
+  .glyphicon.glyphicon-search.kl-icon-white {
+    color:white !important;
+  }
+  
+  
+  /* Couleur écriture bouton last news */
+  .latest_posts-readon.u-trans-all-2s.text-custom-child.kl-main-bgcolor {
+      color:#008000;
+  }
+  
+  /* Nom & catégorie articles couleurs */
+  .element-scheme--light a {
+      color: #000000;
+      font-weight: bold;
+      font-family: roboto;
+      font-style: oblique;
+     }
+  
+  .element-scheme--light a:hover, .element-scheme--light .element-scheme__linkhv:hover {
+      color: #008000 !important;
+      font:bold;
+  }
+  
+  
+  /* Couleurs & Positions hover icones sociales*/
+  .site-header .topnav .topnav-item:hover, .site-header .topnav.social-icons .topnav-item:hover, .site-header.topnav .menu-item>a:hover, .site-header .kl-header-toptext a:hover {
+      color: #008000 !important;
+      text-shadow: black 0.1em 0.1em 0.1em;
+      
+  }
+  .site-header .site-header-bottom-left .sh-component:first-child, .site-header .site-header-main-left .sh-component:first-child, .site-header .site-header-top-left .sh-component:first-child {
+      margin-left: 85%!important;
+      margin-top: -2%!important;
+      position: absolute;
+  }
+  
+  /* Position bouton déco + loupe */
+  .site-header .site-header-bottom-right .sh-component:last-child, .site-header .site-header-main-right .sh-component:last-child, .site-header .site-header-top-right .sh-component:last-child {
+      margin-right: -71%!important;
+      margin-top: -11%;
+  }
+  
+  .site-header-main-right .sh-component {
+      margin-left: 3%;
+      margin-right: 3%;
+      margin-top: -11%;
+  }
+  
+  
+  /* Header Ombres */
+  .site-header.style4.header--follow.sticky-resize.headerstyle--image_color.site-header--absolute.nav-th--light.siteheader-classic.siteheader-classic-normal.sheader-sh--light {
+    text-shadow: black 0.1em 0.1em 0.1em;
+  }
+  
+  
+  /* Bouton Cookies */
+  .cn-button.bootstrap {
+    font-family: sans-serif;
+    display: inline-block;
+    *display: inline;
+    padding: 4px 12px;
+    margin-right: .3em;
+    margin-bottom: 0;
+    *margin-left: .3em;
+    line-height: 30px;
+    color: #333;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(255,255,255,.75);
+    font-style: normal;
+    vertical-align: middle;
+    cursor: pointer;
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.25);
+    background-color: rgba(0,0,0,0);
+    *background-color: #5a5a5a;
+    background-image: -moz-linear-gradient(top,#aaaaaa,#5a5a5a);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#aaaaaa),to(#5a5a5a));
+    background-image: -webkit-linear-gradient(top,#aaaaaa,#5a5a5a);
+    background-image: -o-linear-gradient(top,#aaaaaa,#5a5a5a);
+    background-image: linear-gradient(to bottom,#aaaaaa,#5a5a5a);
+    background-repeat: repeat-x;
+    border-style: solid;
+    border-width: 0px;
+    border-color: #5a5a5a #5a5a5a #242424;
+    border-color: rgba(0,0,0,.1) rgba(0,0,0,.1) rgba(0,0,0,.25);
+    box-shadow: 0 0px 0 rgba(255,255,255,.2) inset, 0 1px 2px rgba(0,0,0,.05);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffaaaaaa',endColorstr='#ff5a5a5a',GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    padding: 1px 34px;
+    font-size: 13px;
+    text-decoration: none;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 40px 40px 3px 3px;
+    outline: none;
+  }
+  
+  .cn-button.bootstrap:hover {
+    color: #fff;
+    background-color: #5a5a5a;
+    background-position: 0 -15px;
+    -webkit-transition: background-position 0.1s linear;
+    -moz-transition: background-position 0.1s linear;
+    -o-transition: background-position 0.1s linear;
+    transition: background-position 0.1s linear;
+  }

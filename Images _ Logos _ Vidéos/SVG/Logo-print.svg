@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet">
+ <desc>Copyright Adquat solutions</desc>
+    <g class="Roue" id="Roue-print">
+  <path d="m192.68587,57.33351l-102.27103,140.77049a-145.62,-145.62 0 0 1 -63.21314,-194.53554l165.48417,53.76505z" stroke="#000000" fill="#008000" id="Roue-print" class="Roue">
+   <title>Impression</title>
+  </path>
+  <image y="58.22794" x="284.42044" width="60" height="60" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAQAAACQ9RH5AAACeUlEQVRYw+3Xu2sUURTH8c9uNonxlWSjgiagxgiaQmwV7AS7gCJaWvoqRHsrQf8C8dVZqSCKgiIEERWUVCnSSRCfRRRfCT52NzsW7q7g7mycmWxEmN9thjmc+72vc+85pEqV6n9XZg77Sqt0xOi3YMq7uOA+h+21Ri4GuOSt6855H9211xVBwnZVPjr4eGJsIHAirPuwZVxqD3hu3Nwn4U8F2Go9drtoJorrgEmBwHltcjFam/MCgUkD0Wac0wkyZqPvUsUTOsMIYeAZN62SMRYTy5i8sqloC10dc9S9jeBfNbVbGiteo6pkRrEK7jRivw3aFwBcNOmqW36wyGnf5iVm/7Z9c0YXhxYY+wt9mPGWIgqmFBv8H+d7C7GfHLXJcV8EnjnljnLF8l1L53tXOxa5L3AEG72q2rItPcM9lqNbD9ZaYtDiqikjaCF41g0P7DQi66sJ/foXBtxErV3qFJyCU/BCKCzrKPukPC8T62k8uTDwhIOmE+ZcBJa5YEtjcLFhyvPY03mYLzxqCC7mvDBU93vWw8rXDrti3eYZ9zwCDx1ssK4vOKlU946+rA3mbOy3+GylhyEv62wlJ8m7XGe4XamJu4zGBo/qAh1u19kuy+d8cMyEffprC5I1qgD6rIu9t+v0eY2CUdtrEVLyxjWXfKye27wVOmq7+dpnsM09y2KCp+3yBHTXCreMgvc+zO18oJacRW9lB5p13fzmGk4QyRnDccHtNsfGwuZmRVEzcK/BROBBvfHA/VYnAq/+nVNGAw/pTgTubnAn/hV4WFsicFuz4xVejGcNmFZKAM4ZkA17XMPDJWND7MujqmmT/6pgSJUqVev1E+4tP4EL9DOvAAAAAElFTkSuQmCC" alt="logo-print" id="logo" class="Roue-logo" transform="matrix(1,0,0,1,-216.8409,0) " xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>Impression</title>
+  </image>
+ </g>
+</svg>

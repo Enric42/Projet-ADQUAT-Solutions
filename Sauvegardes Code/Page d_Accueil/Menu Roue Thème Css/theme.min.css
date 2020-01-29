@@ -1,0 +1,74 @@
+﻿#tab>.wtab-content{-ms-word-wrap:break-word;word-wrap:break-word;padding:25px}#tab>[class*=wtab-selected]{background-color:rgba(0, 0, 0, 0);border-width:0;}
+    
+    [class|=wheelnav-tab-wheel-line-basic]{stroke:#00000000;stroke-width:3px}[class|=wheelnav-tab-wheel-line-hover],[class|=wheelnav-tab-wheel-line-selected]{stroke:#00000000;stroke-width:2px}[class|=wheelnav-tab-wheel-slice-basic]{fill:#ffffff;fill-opacity:.6;stroke:#ffffff;stroke-width:0px}
+    [class|=wheelnav-tab-wheel-slice-hover]{fill:#00000081;cursor:pointer;stroke:#ffffff;stroke-width:0px}
+    
+    /* couleur de séléction automatique désactivé */
+    /*[class|=wheelnav-tab-wheel-slice-selected]{fill:#ffffff;stroke:#000000;stroke-width:2px}*/
+    
+    [class|=wheelnav-tab-wheel-title]>tspan{font-family:'Montserrat',sans-serif;font-size:18px}[class|=wheelnav-tab-wheel-title-basic]{fill:#111;stroke:#111}[class|=wheelnav-tab-wheel-title-hover]{fill:rgba(0,0,0,.7);stroke:rgba(0,0,0,.7);cursor:pointer}[class|=wheelnav-tab-wheel-title-selected]{fill:rgba(0,0,0,.7);stroke:rgba(0,0,0,.7)}.wheelnav-tab-wheel-marker{stroke:#00000000;stroke-width:2px}
+
+
+
+    /*Couleurs Boutons + Couleurs boutons slectionnés Roue Menu */
+    .wheelnav-wtab1-wheel-slice-basic-4 {
+      fill: green;
+      fill-opacity: .6;
+      stroke: #ffffff;
+      stroke-width: 0px;
+    }
+  .wheelnav-wtab1-wheel-slice-selected-4 {
+      fill: green;
+      fill-opacity: .6;
+      stroke: #ffffff;
+      stroke-width: 0px; 
+  }
+    .wheelnav-wtab1-wheel-slice-basic-2 {
+    fill: purple;
+    fill-opacity: .6;
+    stroke: #ffffff;
+    stroke-width: 0px;
+  }
+.wheelnav-wtab1-wheel-slice-selected-2 {
+    fill: purple;
+    fill-opacity: .6;
+    stroke: #ffffff;
+    stroke-width: 0px; 
+}
+.wheelnav-wtab1-wheel-slice-basic-3 {
+    fill: #00b8ff;
+    fill-opacity: .6;
+    stroke: #ffffff;
+    stroke-width: 0px;
+  }
+  .wheelnav-wtab1-wheel-slice-selected-3 {
+    fill: #00b8ff;
+    fill-opacity: .6;
+    stroke: #ffffff;
+    stroke-width: 0px; 
+  }
+  .wheelnav-wtab1-wheel-slice-basic-1 {
+    fill: rgb(255, 129, 11);
+    fill-opacity: .6;
+    stroke: #ffffff;
+    stroke-width: 0px;
+  }
+  .wheelnav-wtab1-wheel-slice-selected-1 {
+    fill: rgb(255, 129, 11);;
+    fill-opacity: .6;
+    stroke: #ffffff;
+    stroke-width: 0px; 
+  }
+  .wheelnav-wtab1-wheel-slice-basic-0 {
+    fill: yellow;
+    fill-opacity: .6;
+    stroke: #ffffff;
+    stroke-width: 0px;
+  }
+  .wheelnav-wtab1-wheel-slice-selected-0 {
+    fill: yellow;
+    fill-opacity: .6;
+    stroke: #ffffff;
+    stroke-width: 0px; 
+  }
+

@@ -1,0 +1,24 @@
+/* Couleur écriture bouton last news */
+  .latest_posts-readon.u-trans-all-2s.text-custom-child.kl-main-bgcolor {
+      color:yellow;
+  }
+  
+/* Nom & catégorie articles couleurs */
+  .element-scheme--light a {
+      color: #000000;
+      font-weight: bold;
+      font-family: roboto;
+      font-style: oblique;
+     }
+  
+  .element-scheme--light a:hover, .element-scheme--light .element-scheme__linkhv:hover {
+      color: yellow !important;
+      font:bold;
+  }
+  
+  
+/* Couleurs & Positions hover icones sociales*/
+  .site-header .topnav .topnav-item:hover, .site-header .topnav.social-icons .topnav-item:hover, .site-header.topnav .menu-item>a:hover, .site-header .kl-header-toptext a:hover {
+      color: yellow !important;
+      text-shadow: black 0.1em 0.1em 0.1em;
+  }

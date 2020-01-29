@@ -1,0 +1,475 @@
+/* Boutons Descriptif Roue Menu */
+
+/* Bouton 1*/
+.bouton-r1 {
+  padding: 6px 14px;
+  font-size: 14px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  box-shadow: none;
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 12px 0 12px 0;
+      transition: background-color .15s ease-out;
+      transition-property: background-color;
+      transition-duration: 0.15s;
+      transition-timing-function: ease-out;
+      transition-delay: 0s;
+  color: #fff;
+  background-color:yellow;
+  border-color:yellow;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  user-select: none;
+  position: relative;
+  }
+  
+  .bouton-r1:hover {
+  padding: 6px 14px;
+  font-size: 14px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  box-shadow: none;
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 12px 0 12px 0;
+  transition: background-color .15s ease-out;
+      transition-property: background-color;
+      transition-duration: 0.15s;
+      transition-timing-function: ease-out;
+      transition-delay: 0s;
+  color: #fff;
+  background-color: rgb(204, 204, 0);
+  border-color: rgb(204, 204, 0);
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  user-select: none;
+  position: relative;
+  }
+  
+  /* Bouton 2*/
+  .bouton-r2 {
+  padding: 6px 14px;
+  font-size: 14px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  box-shadow: none;
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 12px 0 12px 0;
+  transition: background-color .15s ease-out;
+      transition-property: background-color;
+      transition-duration: 0.15s;
+      transition-timing-function: ease-out;
+      transition-delay: 0s;
+  color: #fff;
+  background-color:#ff810b;
+  border-color:#ff810b;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  user-select: none;
+  position: relative;
+  }
+  
+  .bouton-r2:hover {
+  padding: 6px 14px;
+  font-size: 14px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  box-shadow: none;
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 12px 0 12px 0;
+  transition: background-color .15s ease-out;
+      transition-property: background-color;
+      transition-duration: 0.15s;
+      transition-timing-function: ease-out;
+      transition-delay: 0s;
+  color: #fff;
+  background-color: #c96508;
+  border-color: #c96508;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  user-select: none;
+  position: relative;
+  }
+
+  /* Bouton 3*/
+  .bouton-r3 {
+  padding: 6px 14px;
+  font-size: 14px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  box-shadow: none;
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 12px 0 12px 0;
+  transition: background-color .15s ease-out;
+      transition-property: background-color;
+      transition-duration: 0.15s;
+      transition-timing-function: ease-out;
+      transition-delay: 0s;
+  color: #fff;
+  background-color:purple;
+  border-color:purple;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  user-select: none;
+  position: relative;
+  }
+  
+  .bouton-r3:hover {
+  padding: 6px 14px;
+  font-size: 14px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  box-shadow: none;
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 12px 0 12px 0;
+  transition: background-color .15s ease-out;
+      transition-property: background-color;
+      transition-duration: 0.15s;
+      transition-timing-function: ease-out;
+      transition-delay: 0s;
+  color: #fff;
+  background-color: rgb(73, 0, 73);
+  border-color: rgb(73, 0, 73);
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  user-select: none;
+  position: relative;
+  }
+  
+  /* Bouton 4*/
+  .bouton-r4 {
+  padding: 6px 14px;
+  font-size: 14px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  box-shadow: none;
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 12px 0 12px 0;
+  transition: background-color .15s ease-out;
+  transition-property: background-color;
+  transition-duration: 0.15s;
+  transition-timing-function: ease-out;
+  transition-delay: 0s;
+  color: #fff;
+  background-color: #00b8ff;
+  border-color: #00b8ff;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  user-select: none;
+  position: relative;
+  }
+  
+  .bouton-r4:hover {
+  padding: 6px 14px;
+  font-size: 14px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  box-shadow: none;
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 12px 0 12px 0;
+  transition: background-color .15s ease-out;
+      transition-property: background-color;
+      transition-duration: 0.15s;
+      transition-timing-function: ease-out;
+      transition-delay: 0s;
+  color: #fff;
+  background-color: #006992;
+  border-color: #006992;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  user-select: none;
+  position: relative;
+  }
+  
+  /* Bouton 5*/
+  .bouton-r5 {
+    padding: 6px 14px;
+    font-size: 14px;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    box-shadow: none;
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 12px 0 12px 0;
+    transition: background-color .15s ease-out;
+    transition-property: background-color;
+    transition-duration: 0.15s;
+    transition-timing-function: ease-out;
+    transition-delay: 0s;
+    color: #fff;
+    background-color: green;
+    border-color: green;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    user-select: none;
+    position: relative;
+    }
+    
+    .bouton-r5:hover {
+    padding: 6px 14px;
+    font-size: 14px;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    box-shadow: none;
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 12px 0 12px 0;
+    transition: background-color .15s ease-out;
+        transition-property: background-color;
+        transition-duration: 0.15s;
+        transition-timing-function: ease-out;
+        transition-delay: 0s;
+    color: #fff;
+    background-color: rgb(3, 90, 3);
+    border-color: rgb(3, 90, 3);
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    user-select: none;
+    position: relative;
+    }
+
+/* Bouton aide */
+.eluidd0a13c1b {
+z-index:3!important;
+}
+.btn.btn-fullcolor.btn-skewed:before {
+background:transparent!important;
+
+}
+.zn-buttonWrapper .eluidd0a13c1b.btn {
+background-color: transparent;
+border-radius: 4px !important;
+transform: skewX(-8deg)!important;
+transition: background-color .2s ease-in-out!important;
+margin-left: 54%;
+margin-top: -22%;
+padding-top: 0.3%;
+padding-bottom: 0.3%;
+padding-left: 0.3%;
+padding-right: 0.3%;
+}
+.zn-buttonWrapper .eluidd0a13c1b.btn:hover {
+background-color: white;
+border-radius: 4px !important;
+transform: skewX(-8deg)!important;
+transition: background-color .2s ease-in-out!important;
+margin-left: 54%;
+margin-top: -22%;
+padding-top: 0.3%;
+padding-bottom: 0.3%;
+padding-left: 0.3%;
+padding-right: 0.3%;
+}
+
+/* Masquage au chargement de la page du Panel Roue */
+#wtab1-pane-4 {
+  visibility: hidden;
+}
+
+/* Header Ombres */
+.site-header.style17.header--follow.sticky-resize.headerstyle--image_color.site-header--absolute.nav-th--light.siteheader-classic.siteheader-classic-normal.sheader-sh--light {
+text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+/* Couleurs hover icones sociales*/
+.site-header .topnav .topnav-item:hover, .site-header .topnav.social-icons .topnav-item:hover, .site-header.topnav .menu-item>a:hover, .site-header .kl-header-toptext a:hover {
+color: #1da1f2 !important;
+text-shadow: black 0.1em 0.1em 0.1em;  
+}
+
+/* Agencement Title h1 présentation */
+.eluidfc73ddfd {
+text-shadow: black 0.1em 0.1em 0.2em;
+background-color: rgba(123, 123, 123, 0.55);
+}
+
+/* Agencement Title 2 h1 présentation */
+.eluid4a7b3dd4 {
+text-shadow: black 0.1em 0.1em 0.2em; 
+}
+
+
+/*Barre sous titre h1 N°1 & N°2 */
+.tbk__symbol::before {
+  width: calc(18% - 50px)!important;
+}
+.tbk__symbol::after {
+  width: calc(18% - 50px)!important;
+}
+
+/*Flèche Navigation 1*/
+body
+{
+margin:0;
+padding:0;
+background: white;
+}
+.box
+{
+position:absolute;
+top: 90%;
+left:50%;
+transform:translate(-50%,-50%);
+}
+.box span
+{
+  display: block;
+  width: 26px;
+  height: 26px;
+  border-bottom: 5px solid #fff;
+  border-right: 5px solid #fff;
+  transform: rotate(45deg);
+  border-radius: 6px;
+  margin: -10px;
+  animation: animate 3s infinite;
+  cursor: pointer;
+}
+.box span:nth-child(2)
+{
+animation-delay:-0.2s;
+}
+.box span:nth-child(3)
+{
+animation-delay:-0.4s;
+}
+
+@keyframes animate
+{
+0%
+{
+    opacity:0;
+    transform:rotate(45deg) translate(-20px,-20px);
+}
+50%
+{
+    opacity:1;
+}
+100%
+{
+    opacity:0;
+    transform:rotate(45deg) translate(20px,20px);
+}
+}
+
+/*Bouton 1 Flèche scroll vers le bas*/
+.eluid7b2a1d86 {
+z-index: 2;
+position:relative;
+}
+
+/*Flèche Navigation 2*/
+body
+{
+margin:0;
+padding:0;
+background: #000;
+}
+.box2
+{
+position:absolute;
+top:94%;
+left:50%;
+transform:translate(-50%,-50%);
+}
+.box2 span
+{
+  display: block;
+  width: 26px;
+  height: 26px;
+  border-bottom: 5px solid black;
+  border-right: 5px solid black;
+  transform: rotate(45deg);
+  border-radius: 6px;
+  margin: -10px;
+  animation: animate 3s infinite;
+  cursor: pointer;
+}
+.box2 span:nth-child(2)
+{
+animation-delay:-0.2s;
+}
+.box2 span:nth-child(3)
+{
+animation-delay:-0.4s;
+}
+
+@keyframes animate2
+{
+0%
+{
+    opacity:0;
+    transform:rotate(45deg) translate(-20px,-20px);
+}
+50%
+{
+    opacity:1;
+}
+100%
+{
+    opacity:0;
+    transform:rotate(45deg) translate(20px,20px);
+}
+}
+
+/*Bouton 2 Flèche scroll vers le bas*/
+.eluid4547de3a {
+z-index: 2;
+position:relative;
+}

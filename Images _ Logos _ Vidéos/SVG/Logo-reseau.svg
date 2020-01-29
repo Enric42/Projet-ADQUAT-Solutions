@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet">
+ <desc>Copyright Adquat solutions</desc>
+    <g class="Roue" id="Roue-reseau">
+        <path id="Roue-reseau" class="Roue" d="m181.47574,53.77234l-102.2772,140.766a-145.62,-145.62 0 0 1 -63.20462,-194.53832l165.48182,53.77232z" stroke="#000000" fill="#ff810b">
+    <title>Systèmes et Réseaux</title>
+        </path>
+            <image transform="matrix(1,0,0,1,-175.428,127.4559) " id="logo" class="Roue-logo" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAABKCAQAAABNjv8lAAADrklEQVRo3u2YS0gVURjHf3NvllmpZZGYlZRCiGWkPRYRREHQLqiVIS0q0EWguAgxeiwiEtoERYt2ES2idy2kJOhBiwgKyoKgh6GY6e2qV69e70yLce7cedx7x5k5Qwv/s5g53xzO/3znfOf7n3NgDgFBSvvOo8hQ9hsJ/toRb6SNGqEuTvCAK4wazaU8RxH+JGjXCEMz72q2CvRWwzz2scRIXMp8AD5ykptMC6MuoVDrgzYDABOc4TYrqWSbaOc1j5WZUgGQT55oWt1jFQs4Sy01bAqaGCpoddnSGF3ELFaFauqdELvHIG38SE2dhmlaRBNDEhnZYpXtK/tJHAKLx3KmJGxcTl6wnE7GLO0oVBvKqf8a8SAJj94v4aCDWn+1ANSG5j1vPfucGzKPNYXSh6aeFtYLpU3wlMsMm4khnxWW4PATcQb0gk5cRRN1ApOlRIT73DAnmWIeBaDHkzSb+7OLkQCIFZ6yWCXU5rSchQB85SKPSAob8FKzHquY4BS3KOcedQLn2uCxCoVJYErgDiQFo8cFnGMDm9gSNDHUcN5lSzFeELPJ1VX22wr/1Ok3zXy3JKAkLVwSSwwyis16EK7H6nZRsrVmIfZDj88xakNcayhb9HjIsx4X0uigVpRx9UMLhg/0ePbZCbqJmFxnD62UZZ4Tz5CQecUF+szEUKDlUUGQ+aPHuE5cQQNrBXoMSV5ylwmjsZA7AYhijGPm3uwkGoged7FIJdSieg0FAPRzndeZso0PKKPISKzOdYIzHOUInwTOtEmPlRniAWDYfEEiAmY97qCMrQL3HxmIoZ46l3l7nDfmpQIorDOdnjIQu5eLAZr4aXM+PkGnM2L3iBO3sSbsK/t3ZFEyZL0cGwHvelxCB1FLO7LpIsKixxGmPQ57Eccd1Bq16vEXzz47wXOrHu+nnUqhV2tjPOM0vWZiWMZq8h0KY3otp/ERoVePe3dBtZkGwihAiD6uMiZwnAw4jJwSus+sctOEu3Uspx3rpt3tWkTeecwR+0BszL+uLi5mkybXsZsQILMjrcNLaSSChMQQT2wU2QccII6CnLaU1Eeesb2jZPYeh9nDqqwLI8l2wtilHM1SQoONPqUjQTf9RlM+XQHsqkfYqxEGG9WSPqbBEqdN5X+wjoPoQti69VH4xqccqaCI1VljNs63rHeCEjFdQKXUu5j5OZbTAa5lHZceDvE7a9cUokyZPY7kHKgeHpKXsXMhvvKLaM5WTB47qxvO+l8ReN08B/f4B+y6DY81L2PIAAAAAElFTkSuQmCC" alt="logo-reseau" height="60" width="60" x="218.22858" y="-69.78202" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo RÉSEAU</title>
+            </image>
+    </g>
+</svg>

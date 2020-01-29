@@ -1,0 +1,84 @@
+/* Header Ombres */
+.site-header.style17.header--follow.sticky-resize.headerstyle--image_color.site-header--absolute.nav-th--light.siteheader-classic.siteheader-classic-normal.sheader-sh--light {
+  text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+/* Couleur écriture bouton last news */
+  .latest_posts-readon.u-trans-all-2s.text-custom-child.kl-main-bgcolor {
+      color:#008000;
+  }
+  
+/* Nom & catégorie articles couleurs */
+  .element-scheme--light a {
+      color: #000000;
+      font-weight: bold;
+      font-family: roboto;
+      font-style: oblique;
+     }
+  
+  .element-scheme--light a:hover, .element-scheme--light .element-scheme__linkhv:hover {
+      color: #008000 !important;
+      font:bold;
+  }
+  
+  
+/* Couleurs & Positions hover icones sociales*/
+  .site-header .topnav .topnav-item:hover, .site-header .topnav.social-icons .topnav-item:hover, .site-header.topnav .menu-item>a:hover, .site-header .kl-header-toptext a:hover {
+      color: #008000 !important;
+      text-shadow: black 0.1em 0.1em 0.1em;
+      
+  }
+
+  /* Articles logo & img */
+
+/* logo */
+.latest_posts--4.kl-style-2 .latest_posts-elm-titlew {
+  background-color: #008000!important;
+  border-radius: 50% 20% / 10% 40%!important;
+  }
+  
+  /* img */
+  .latest_posts-link::after {
+  display: none!important;
+  }
+  .latest_posts-title::after {
+  background-color: #008000!important;
+  }
+  .latest_posts--4.kl-style-2 .latest_posts-img {
+  -webkit-transform: scale(1)!important;
+  transform: scale(1)!important;
+  filter: grayscale(100%)!important;
+  -webkit-transition: all 3s ease;
+  -moz-transition: all 3s ease;
+  -o-transition: all 3s ease;
+  -ms-transition: all 3s ease;
+  transition: all 3s ease;
+  border-radius: 2%;
+  }
+  .latest_posts--4.kl-style-2 .latest_posts-img:hover {
+  -webkit-transform: scale(1.3)!important;
+  transform: scale(1.3)!important;
+  filter: grayscale(0%)!important;
+  border-radius: 2%;
+  }
+  .latest_posts--4.kl-style-2 .latest_posts-link {
+  overflow:hidden;
+  }
+  
+  /* Articles title */
+  .latest_posts--4.kl-style-2 .latest_posts-title-link {
+  font-style: normal;
+  margin-bottom: 5px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  font-family: roboto;
+  }
+  .latest_posts--4.kl-style-2 .latest_posts-title-link:hover {
+  color: #046104;
+  }
+  /* Auteur & date Articles */
+  .latest_posts--4.kl-style-2 .latest_posts-details-data {
+  display : none;
+  }
